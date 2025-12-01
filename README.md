@@ -1,12 +1,16 @@
-🌙 Welcome to My GitHub<br><br>
+🌙 Welcome to My GitHub<br>
  
 Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer. I code for fun.
 By now, i'm interested in Reverse engineering cause it lets me understand the world one byte at a time ✨
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,html,css,javascript,java" height="90" /> </p>
+
+Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-red?logo=rust&color=FA7070)
+![asm](https://img.shields.io/badge/assembly-grey?logo=assemblyscript)
 
 
-🧰 Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=windows" height="40" /> </p>
 🚀 What I’m Working On
 
 Small projects to sharpen skills
