@@ -1,8 +1,9 @@
 ## Hi there 👋
 🌙 Welcome to My GitHub
-I'm Ali, a 2nd year student of cs. Ali in person, TRUTHER on the web.<br><br>
-
-<p>Currently interested in algorithms and data structures, c-language and low-level programming (assembly).
+I'm Ali, a 2nd year student of cs. I'm interested in low-level programming as it excites me to be able to reverse engineer anything and learn how everything works. Ali in person, TRUTHER on the web.<br><br>
+Hi, I'm John  
+I study CS, I'm quite obviously a programmer. I code for fun.
+By now, i'm interested in Reverse engineering cause it lets me understand the world one byte at a time ✨
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,html,css,javascript,java" height="90" /> </p>
 
 
