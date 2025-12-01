@@ -1,7 +1,6 @@
-## Hi there 👋
 🌙 Welcome to My GitHub<br><br>
-Hi, Ali  
-I study CS, I'm quite obviously a programmer. I code for fun.
+ 
+Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer. I code for fun.
 By now, i'm interested in Reverse engineering cause it lets me understand the world one byte at a time ✨
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,html,css,javascript,java" height="90" /> </p>
 
