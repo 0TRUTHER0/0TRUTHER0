@@ -22,6 +22,9 @@ Operating systems:<br><br>
 ![arch](https://img.shields.io/badge/Arch_-linux-black?logo=archlinux&logoColor=blue&labelColor=black&color=yellow)
 <br>
 
+Currently:<br><br>
+playing with c ☕.
+<br>
 
 📫 Contact
 
