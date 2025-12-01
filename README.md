@@ -3,16 +3,17 @@
 Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer. I code for fun.
 By now, i'm interested in Reverse engineering cause it lets me understand the world one byte at a time ✨
 
-Stack<br>
+Stack<br><br>
 ![C](https://img.shields.io/badge/c_lang-black?logo=c)
 ![HTML5](https://img.shields.io/badge/_HTML_5-black?logo=html5&color=white)
 ![CSS3](https://img.shields.io/badge/_CSS_3-purple?logo=css&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-red?logo=rust&color=FA7070)
 ![asm](https://img.shields.io/badge/assembly-grey?logo=assemblyscript)
+![python](https://img.shields.io/badge/_Python-orange?logo=python&logoColor=white)
+<br><br>
 
 
-
-🚀 What I’m Working On
+Editros
 
 Small projects to sharpen skills
 
