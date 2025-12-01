@@ -1,4 +1,34 @@
 ## Hi there 👋
+🌙 Welcome to My GitHub
+I'm tt — learning, building, and improving every day.
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,html,css,javascript,java" height="90" /> </p>
+🌱 Currently Learning
+
+⚙️ Data Structures & Algorithms in C
+
+🎨 Responsive Design with HTML & CSS
+
+⚡ JavaScript fundamentals
+
+☕ Java basics
+
+🧰 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=vscode" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=windows" height="40" /> </p>
+🚀 What I’m Working On
+
+Small projects to sharpen skills
+
+Clean, readable code
+
+Learning something new every day
+
+📫 Contact
+
+📧 Email: add yours here
+
+⭐ Fun Goal
+
+“Become a better programmer than I was yesterday.”
 
 <!--
 **0TRUTHER0/0TRUTHER0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
