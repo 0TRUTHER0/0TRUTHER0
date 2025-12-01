@@ -12,13 +12,14 @@ Stack<br><br>
 ![python](https://img.shields.io/badge/_Python-orange?logo=python&logoColor=white)
 <br>
 
-Editros<br><br>
+Editors<br><br>
 ![zed](https://img.shields.io/badge/zed-black?logo=zedindustries&logoColor=white&color=black)
 ![vim](https://img.shields.io/badge/vim-mode-black?logo=vim&logoColor=white&color=green)
 <br>
+    
 Operating systems<br><br>
 ![arch](https://img.shields.io/badge/Arch_-linux-black?logo=archlinux&logoColor=blue&labelColor=black&color=yellow)
-
+<br>
 
 
 📫 Contact
