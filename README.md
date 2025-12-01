@@ -3,6 +3,9 @@
 Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer and I code for Fun (i do create cool html&css only websites from time to time).
 By now, i'm interested in Reverse engineering cause it lets me understand the world one byte at a time ✨
  - my website https://truther.neocities.org :)
+ - Currently: 
+playing with c ☕.
+<br>
 
 Stack:<br><br>
 ![C](https://img.shields.io/badge/language-black?logo=c) 
@@ -22,9 +25,7 @@ Operating systems:<br><br>
 ![arch](https://img.shields.io/badge/Arch_-linux-black?logo=archlinux&logoColor=blue&labelColor=black&color=yellow)
 <br>
 
-Currently:<br><br>
-playing with c ☕.
-<br>
+
 
 📫 Contact
 
