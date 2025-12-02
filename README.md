@@ -1,7 +1,6 @@
 🌙 Welcome to My GitHub<br>
  
-Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer and I code for Fun (i do create cool html&css only websites from time to time).
-By now, i'm interested in Reverse engineering cause it lets me understand the world one byte at a time ✨
+Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer and I code for Fun (i do create cool html&css only websites from time to time). At the moment, my interests revolve around Algorithms and Data Structures.
  - my website https://truther.neocities.org :)
  - Currently: 
 playing with c ☕.
