@@ -2,8 +2,8 @@
  
 Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obviously a programmer and I code for Fun (i do create cool html&css only websites from time to time). At the moment, my interests revolve around Algorithms and Data Structures.
  - my website https://truther.neocities.org :)
- - Currently: 
-playing with c ☕.
+ - Currently: Focusing on Algorithms and data structures.
+ - Main-lang: C ☕
 <br>
 
 Stack:<br><br>
