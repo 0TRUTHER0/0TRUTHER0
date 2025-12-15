@@ -30,10 +30,6 @@ Operating systems:<br><br>
 
 📧 Email: tt.0022@proton.me
 
-⭐ Fun Goal
-
-“Become a better programmer than I was yesterday.”
-
 <!--
 **0TRUTHER0/0TRUTHER0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
