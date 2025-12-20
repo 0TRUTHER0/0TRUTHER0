@@ -12,7 +12,6 @@ Stack:<br><br>
 ![CSS3](https://img.shields.io/badge/_CSS_3-purple?logo=css&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-red?logo=rust&color=FA7070) 
 ![asm](https://img.shields.io/badge/assembly-grey?logo=assemblyscript) 
-![python](https://img.shields.io/badge/_Python-orange?logo=python&logoColor=white)
 <br>
 
 Editors:<br><br>
