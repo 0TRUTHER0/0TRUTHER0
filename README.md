@@ -7,6 +7,7 @@ Hi there i'm Ali (Ali in person, truther on the web) I study CS, I'm quite obvio
 <br>
 
 Stack:<br><br>
+![Rust](https://img.shields.io/badge/Rust-red?logo=rust&color=FA7070)
 ![C](https://img.shields.io/badge/language-black?logo=c) 
 ![HTML5](https://img.shields.io/badge/_HTML_5-black?logo=html5&color=white) 
 ![CSS3](https://img.shields.io/badge/_CSS_3-purple?logo=css&logoColor=white)  
