@@ -19,7 +19,7 @@ Editors:<br><br>
 ![vim](https://img.shields.io/badge/vim-mode-black?logo=vim&logoColor=white&color=green)
 <br>
     
-Operating systems:<br><br>
+Operating system:<br><br>
 ![arch](https://img.shields.io/badge/Arch_-linux-black?logo=archlinux&logoColor=blue&labelColor=black&color=yellow)
 <br>
 
